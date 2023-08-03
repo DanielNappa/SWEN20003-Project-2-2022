@@ -1,0 +1,3 @@
+# SWEN20003-Project-2-2022
+SWEN20003 Object Oriented Software Development Project 2, 2022
+This project is a fantasy role-playing game called ShadowDimension, developed in Java using the Bagel game engine. The game consists of two levels, where the player controls Fae, the daughter of a scientist who has to save her father and her town from an evil creature called Navec and his demons. The game features different types of entities, such as walls, trees, sinkholes, fire, and enemies, that interact with the player in various ways. The game also allows the player to change the timescale to adjust the difficulty of the game.
